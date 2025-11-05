@@ -30,12 +30,6 @@ input {
   color: white;
   text-align: center;
 }
-input::placeholder {
-  font-size: 60px;
-  font-weight: bold;
-  color: white;
-  padding: 10px;
-}
 button {
   font-size: 20px;
   color: #3d3d3d;
